@@ -18,7 +18,7 @@ body {
   background: dadada;
   display: grid;
   grid-template-columns: 25% 25% 50%;
-  grid-template-rows: 30% 55% 15%;
+  grid-template-rows: 26% 55% 19%;
 }
 
 .left-top-left {
@@ -72,6 +72,7 @@ background: black;
 }
 .left-bottom p{
     width: 75%;
+    font-size: 18px;
 }
 .right {
   background: gray;
